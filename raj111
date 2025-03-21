@@ -1,0 +1,6 @@
+git clone https://github.com/username/my-wedding-invitation.git
+cd my-wedding-invitation
+echo 'यह मेरी शादी का वेबपेज है' > index.html
+git add .
+git commit -m "शादी का निमंत्रण पेज"
+git push origin main
